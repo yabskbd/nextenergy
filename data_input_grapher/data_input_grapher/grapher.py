@@ -17,14 +17,16 @@ with open(file_loc,"r") as data_file:
     for cur_data in data_file:
         cur_data=cur_data.split(",")
         Aeon_Lum.append(float(cur_data[3]))
+        
+        Time.append(int(cur_data[0]))
 
 
 
 
-print Aeon_Lum
-plt.plot(Aeon_Lum)
+
+plt.plot(Time,Aeon_Lum,"r--")
 plt.ylabel('Luminasity')
-plt.axis(range(0,720))
+plt.axis([Time[0],Time[len(Time)-1],0,max(Aeon_Lum)+50])
 plt.show()
 
 data_file.close()
