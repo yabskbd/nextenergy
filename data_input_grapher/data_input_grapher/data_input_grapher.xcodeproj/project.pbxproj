@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		7FF90C461B273C4800E9EB97 /* grapher.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = grapher.py; sourceTree = "<group>"; };
+		7FF90C461B273C4800E9EB97 /* grapher.py */ = {isa = PBXFileReference; fileEncoding = 4; indentWidth = 4; lastKnownFileType = text.script.python; path = grapher.py; sourceTree = "<group>"; tabWidth = 4; usesTabs = 0; };
 		7FF90C471B273F9D00E9EB97 /* 20150609_10.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = 20150609_10.txt; path = 20150609/20150609_10.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -30,10 +30,11 @@
 			buildPhases = (
 			);
 			buildToolPath = /usr/bin/python;
+			buildWorkingDirectory = "";
 			dependencies = (
 			);
 			name = data_input_grapher;
-			passBuildSettingsInEnvironment = 1;
+			passBuildSettingsInEnvironment = 0;
 			productName = data_input_grapher;
 		};
 /* End PBXLegacyTarget section */
