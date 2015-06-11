@@ -7,15 +7,43 @@
 	objects = {
 
 /* Begin PBXFileReference section */
+		7F5E8C5A1B2882E000BFBDBB /* 20150609_09.txt.gz */ = {isa = PBXFileReference; lastKnownFileType = archive.gzip; name = 20150609_09.txt.gz; path = 20150609/20150609_09.txt.gz; sourceTree = "<group>"; };
+		7F5E8C5B1B2882E000BFBDBB /* 20150609_10.txt.gz */ = {isa = PBXFileReference; lastKnownFileType = archive.gzip; name = 20150609_10.txt.gz; path = 20150609/20150609_10.txt.gz; sourceTree = "<group>"; };
+		7F5E8C5C1B2882E000BFBDBB /* 20150609_11.txt.gz */ = {isa = PBXFileReference; lastKnownFileType = archive.gzip; name = 20150609_11.txt.gz; path = 20150609/20150609_11.txt.gz; sourceTree = "<group>"; };
+		7F5E8C5D1B2882E000BFBDBB /* 20150609_12.txt.gz */ = {isa = PBXFileReference; lastKnownFileType = archive.gzip; name = 20150609_12.txt.gz; path = 20150609/20150609_12.txt.gz; sourceTree = "<group>"; };
+		7F5E8C5E1B2882E000BFBDBB /* 20150609_13.txt.gz */ = {isa = PBXFileReference; lastKnownFileType = archive.gzip; name = 20150609_13.txt.gz; path = 20150609/20150609_13.txt.gz; sourceTree = "<group>"; };
+		7F5E8C5F1B2882E000BFBDBB /* 20150609_14.txt.gz */ = {isa = PBXFileReference; lastKnownFileType = archive.gzip; name = 20150609_14.txt.gz; path = 20150609/20150609_14.txt.gz; sourceTree = "<group>"; };
+		7F5E8C601B2882E000BFBDBB /* 20150609_15.txt.gz */ = {isa = PBXFileReference; lastKnownFileType = archive.gzip; name = 20150609_15.txt.gz; path = 20150609/20150609_15.txt.gz; sourceTree = "<group>"; };
+		7F5E8C611B2882E000BFBDBB /* 20150609_16.txt.gz */ = {isa = PBXFileReference; lastKnownFileType = archive.gzip; name = 20150609_16.txt.gz; path = 20150609/20150609_16.txt.gz; sourceTree = "<group>"; };
+		7F5E8C621B2882E000BFBDBB /* 20150609_17.txt.gz */ = {isa = PBXFileReference; lastKnownFileType = archive.gzip; name = 20150609_17.txt.gz; path = 20150609/20150609_17.txt.gz; sourceTree = "<group>"; };
+		7F5E8C631B2882E000BFBDBB /* 20150609_18.txt.gz */ = {isa = PBXFileReference; lastKnownFileType = archive.gzip; name = 20150609_18.txt.gz; path = 20150609/20150609_18.txt.gz; sourceTree = "<group>"; };
+		7F5E8C641B2882E000BFBDBB /* 20150609_19.txt.gz */ = {isa = PBXFileReference; lastKnownFileType = archive.gzip; name = 20150609_19.txt.gz; path = 20150609/20150609_19.txt.gz; sourceTree = "<group>"; };
+		7F5E8C651B2882E000BFBDBB /* 20150609_20.txt.gz */ = {isa = PBXFileReference; lastKnownFileType = archive.gzip; name = 20150609_20.txt.gz; path = 20150609/20150609_20.txt.gz; sourceTree = "<group>"; };
+		7F5E8C661B2882E000BFBDBB /* 20150609_21.txt.gz */ = {isa = PBXFileReference; lastKnownFileType = archive.gzip; name = 20150609_21.txt.gz; path = 20150609/20150609_21.txt.gz; sourceTree = "<group>"; };
+		7F5E8C671B2882E000BFBDBB /* 20150609_22.txt.gz */ = {isa = PBXFileReference; lastKnownFileType = archive.gzip; name = 20150609_22.txt.gz; path = 20150609/20150609_22.txt.gz; sourceTree = "<group>"; };
+		7F5E8C681B2882E000BFBDBB /* 20150609_23.txt.gz */ = {isa = PBXFileReference; lastKnownFileType = archive.gzip; name = 20150609_23.txt.gz; path = 20150609/20150609_23.txt.gz; sourceTree = "<group>"; };
 		7FF90C461B273C4800E9EB97 /* grapher.py */ = {isa = PBXFileReference; fileEncoding = 4; indentWidth = 4; lastKnownFileType = text.script.python; path = grapher.py; sourceTree = "<group>"; tabWidth = 4; usesTabs = 0; };
-		7FF90C471B273F9D00E9EB97 /* 20150609_10.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = 20150609_10.txt; path = 20150609/20150609_10.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		7FF90C3B1B273AFD00E9EB97 = {
 			isa = PBXGroup;
 			children = (
-				7FF90C471B273F9D00E9EB97 /* 20150609_10.txt */,
+				7F5E8C5A1B2882E000BFBDBB /* 20150609_09.txt.gz */,
+				7F5E8C5B1B2882E000BFBDBB /* 20150609_10.txt.gz */,
+				7F5E8C5C1B2882E000BFBDBB /* 20150609_11.txt.gz */,
+				7F5E8C5D1B2882E000BFBDBB /* 20150609_12.txt.gz */,
+				7F5E8C5E1B2882E000BFBDBB /* 20150609_13.txt.gz */,
+				7F5E8C5F1B2882E000BFBDBB /* 20150609_14.txt.gz */,
+				7F5E8C601B2882E000BFBDBB /* 20150609_15.txt.gz */,
+				7F5E8C611B2882E000BFBDBB /* 20150609_16.txt.gz */,
+				7F5E8C621B2882E000BFBDBB /* 20150609_17.txt.gz */,
+				7F5E8C631B2882E000BFBDBB /* 20150609_18.txt.gz */,
+				7F5E8C641B2882E000BFBDBB /* 20150609_19.txt.gz */,
+				7F5E8C651B2882E000BFBDBB /* 20150609_20.txt.gz */,
+				7F5E8C661B2882E000BFBDBB /* 20150609_21.txt.gz */,
+				7F5E8C671B2882E000BFBDBB /* 20150609_22.txt.gz */,
+				7F5E8C681B2882E000BFBDBB /* 20150609_23.txt.gz */,
 				7FF90C461B273C4800E9EB97 /* grapher.py */,
 			);
 			sourceTree = "<group>";
